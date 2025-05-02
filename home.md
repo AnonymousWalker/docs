@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2025-05-02T17:28:59.651Z
+date: 2025-05-02T17:29:19.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-02T13:56:43.907Z
@@ -49,12 +49,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 > “Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.”
 
 ---
-
-## 📬 Get In Touch
-
-Have a question or want to work with us? [Contact us](#) today.
-
----
-
-**Follow us on social media:**  
-[Twitter](#) | [LinkedIn](#) | [Instagram](#)
